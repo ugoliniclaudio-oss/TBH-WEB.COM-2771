@@ -1,0 +1,58 @@
+[
+ {
+  "nome": "Centro per l'Impiego Ascoli Satriano",
+  "url": "https://arpal.regione.puglia.it/cpi-ascoli-satriano",
+  "indirizzo": "Largo Municipio, 1 71022 Ascoli Satriano (FG)",
+  "telefono": "0881046109",
+  "email": "cpi.ascolisatriano@arpal.regione.puglia.it",
+  "competenza": "Ascoli Satriano , Accadia , Anzano di Puglia , Bovino , Candela , Castelluccio dei Sauri , Deliceto , Monteleone di Puglia , Panni, Rocchetta Sant'Antonio e Sant'Agata di Puglia"
+ },
+ {
+  "nome": "Centro per l'Impiego Cerignola",
+  "url": "https://arpal.regione.puglia.it/cpi-cerignola",
+  "indirizzo": "Via G. Falcone, 41/43 71042 Cerignola (FG)",
+  "telefono": "0881046030",
+  "email": "cpi.cerignola@arpal.regione.puglia.it",
+  "competenza": "Cerignola , Carapelle , Orta Nova , Ordona , Stornara e Stornarella"
+ },
+ {
+  "nome": "Centro per l'Impiego Foggia",
+  "url": "https://arpal.regione.puglia.it/cpi-foggia",
+  "indirizzo": "Via S. Severo, 71/79 71122 Foggia",
+  "telefono": "0881046091 - 0881046060",
+  "email": "cpi.foggia@arpal.regione.puglia.it",
+  "competenza": "Foggia"
+ },
+ {
+  "nome": "Centro per l'Impiego Lucera",
+  "url": "https://arpal.regione.puglia.it/cpi-lucera",
+  "indirizzo": "Piazza S. Leonardo Murialdo, 2 71036 Lucera (FG)",
+  "telefono": "0881046001",
+  "email": "cpi.lucera@arpal.regione.puglia.it",
+  "competenza": "Lucera , Alberona, Biccari, Carlantino, Casalnuovo Monterotaro, Casalvecchio di Puglia, Castelluccio Valmaggiore, Castelnuovo della Daunia, Celenza Valfortore, Celle di San Vito, Faeto, Motta Montecorvino, Orsara di Puglia , Pietramontecorvino , Roseto Valfortore , San Marco La Catola , Troia , Volturara Appula e Volturino"
+ },
+ {
+  "nome": "Centro per l'Impiego Manfredonia",
+  "url": "https://arpal.regione.puglia.it/cpi-manfredonia",
+  "indirizzo": "Palazzo della Sorgente, Piazzale Alessandro Galli 71043 Manfredonia (FG)",
+  "telefono": "0881046119",
+  "email": "cpi.manfredonia@arpal.regione.puglia.it",
+  "competenza": "Manfredonia, Mattinata, Monte Sant'Angelo , Rignano Garganico , San Giovanni Rotondo , San Marco in Lamis e Zapponeta"
+ },
+ {
+  "nome": "Centro per l'Impiego San Severo",
+  "url": "https://arpal.regione.puglia.it/cpi-san-severo",
+  "indirizzo": "Viale Castellana, 28 71016 San Severo (FG)",
+  "telefono": "0882437001",
+  "email": "cpi.sansevero@arpal.regione.puglia.it",
+  "competenza": "San Severo , Apricena , Chieuti , Lesina , Poggio Imperiale , San Paolo di Civitate , Serracapriola e Torremaggiore"
+ },
+ {
+  "nome": "Centro per l'Impiego Vico del Gargano",
+  "url": "https://arpal.regione.puglia.it/cpi-vico-del-gargano",
+  "indirizzo": "Largo Monastero, 6 71018 Vico del Gargano (FG)",
+  "telefono": "08841970001",
+  "email": "cpi.vicodelgargano@arpal.regione.puglia.it",
+  "competenza": "Vico del Gargano, Cagnano Varano, Carpino, Ischitella, Isole Tremiti, Peschici, Rodi Garganico, San Nicandro Garganico e Vieste"
+ }
+]

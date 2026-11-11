@@ -1,0 +1,46 @@
+CREATE TABLE IF NOT EXISTS `marchi` (
+	`id` integer PRIMARY KEY AUTOINCREMENT NOT NULL,
+	`slug` text NOT NULL,
+	`nome` text NOT NULL,
+	`nome_breve` text,
+	`chiave_entita` text,
+	`categoria` text,
+	`stato` text DEFAULT 'in_allestimento' NOT NULL,
+	`descrizione` text,
+	`logo_master` text,
+	`logo_master_tipo` text,
+	`logo_master_larghezza` integer,
+	`logo_master_altezza` integer,
+	`colori_ufficiali` text,
+	`copertina_url` text,
+	`video_url` text,
+	`carosello_url` text,
+	`sito` text,
+	`maps_url` text,
+	`telefono` text,
+	`whatsapp` text,
+	`email` text,
+	`social` text,
+	`pagina_tbh` text,
+	`fonte` text,
+	`nota` text,
+	`ordine` integer DEFAULT 0 NOT NULL,
+	`created_at` integer NOT NULL,
+	`updated_at` integer NOT NULL
+);
+--> statement-breakpoint
+CREATE UNIQUE INDEX IF NOT EXISTS `marchi_slug_unique` ON `marchi` (`slug`);--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS `marchio_media` (
+	`id` integer PRIMARY KEY AUTOINCREMENT NOT NULL,
+	`marchio_id` integer NOT NULL,
+	`ruolo` text NOT NULL,
+	`chiave` text NOT NULL,
+	`tipo` text DEFAULT 'immagine' NOT NULL,
+	`titolo` text,
+	`larghezza` integer,
+	`altezza` integer,
+	`fonte` text,
+	`nota` text,
+	`ordine` integer DEFAULT 0 NOT NULL,
+	`created_at` integer NOT NULL
+);

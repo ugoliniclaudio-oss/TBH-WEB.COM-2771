@@ -1,0 +1,426 @@
+[
+ {
+  "url": "http://federalberghifirenze.it/",
+  "status": 200,
+  "final": "https://www.firenzefederalberghi.it/",
+  "len": 102866
+ },
+ {
+  "url": "http://riccione.federalberghi.it",
+  "status": 200,
+  "final": "https://riccione.federalberghi.it/index.aspx",
+  "len": 35256
+ },
+ {
+  "url": "http://www.HGV.it",
+  "status": 200,
+  "final": "https://www.hgv.it/de/",
+  "len": 382580
+ },
+ {
+  "url": "http://www.abanomontegrotto.federalberghi.it/",
+  "status": 403,
+  "final": "http://www.abanomontegrotto.federalberghi.it/",
+  "len": 199
+ },
+ {
+  "url": "http://www.acaweb.it",
+  "status": 200,
+  "final": "https://www.acaweb.it/",
+  "len": 91792
+ },
+ {
+  "url": "http://www.acquiterme.org",
+  "status": 200,
+  "final": "https://acquiterme.org/",
+  "len": 206314
+ },
+ {
+  "url": "http://www.adava.it",
+  "status": 200,
+  "final": "https://www.adava.it/",
+  "len": 154335
+ },
+ {
+  "url": "http://www.aja.it",
+  "status": 200,
+  "final": "https://www.aja.it/",
+  "len": 39414
+ },
+ {
+  "url": "http://www.albergatoricesenatico.it",
+  "status": 404,
+  "final": "http://www.federalberghi.it/siti/cesenatico/index.aspx",
+  "len": 18
+ },
+ {
+  "url": "http://www.albergatorimilano.it",
+  "status": 200,
+  "final": "https://www.albergatorimilano.it/",
+  "len": 41209
+ },
+ {
+  "url": "http://www.alberghiversilia.it",
+  "status": 200,
+  "final": "http://www.alberghiversilia.it",
+  "len": 21007
+ },
+ {
+  "url": "http://www.ancona.federalberghi.it",
+  "status": 200,
+  "final": "http://www.ancona.federalberghi.it/index.aspx",
+  "len": 56040
+ },
+ {
+  "url": "http://www.apamontecatini.it",
+  "status": 200,
+  "final": "https://www.apamontecatini.it/",
+  "len": 48826
+ },
+ {
+  "url": "http://www.asat.it",
+  "status": 200,
+  "final": "https://www.asat.it/",
+  "len": 72089
+ },
+ {
+  "url": "http://www.ascom.lecco.it",
+  "status": 403,
+  "final": "http://www.ascom.lecco.it",
+  "len": 343
+ },
+ {
+  "url": "http://www.ascom.pr.it",
+  "status": 200,
+  "final": "https://www.ascom.pr.it/it-it/ascom-confcommercio-parma-imprese-per-litalia.aspx",
+  "len": 79059
+ },
+ {
+  "url": "http://www.ascom.ra.it",
+  "status": 200,
+  "final": "https://www.ascom.ra.it/",
+  "len": 40169
+ },
+ {
+  "url": "http://www.ascombelluno.it",
+  "status": 200,
+  "final": "https://ascombelluno.it/",
+  "len": 170418
+ },
+ {
+  "url": "http://www.ascomnovara.it",
+  "status": null,
+  "err": "[Errno -2] Name or service not known"
+ },
+ {
+  "url": "http://www.ascompd.com",
+  "status": 200,
+  "final": "https://www.ascompd.com/",
+  "len": 333976
+ },
+ {
+  "url": "http://www.ascomre.com",
+  "status": null,
+  "err": "[Errno -2] Name or service not known"
+ },
+ {
+  "url": "http://www.ascomrieticonfcommercio.it",
+  "status": null,
+  "err": "[Errno -2] Name or service not known"
+ },
+ {
+  "url": "http://www.associazionealbergatorigiardininaxos.com",
+  "status": null,
+  "err": "[Errno -2] Name or service not known"
+ },
+ {
+  "url": "http://www.ataf.federalberghi.it/",
+  "status": 200,
+  "final": "https://ataf.federalberghi.it/index.aspx",
+  "len": 56034
+ },
+ {
+  "url": "http://www.bellariaigeamarina.federalberghi.it",
+  "status": 200,
+  "final": "http://www.bellariaigeamarina.federalberghi.it/index.aspx",
+  "len": 30694
+ },
+ {
+  "url": "http://www.bibionehotels.it",
+  "status": 200,
+  "final": "https://www.bibionehotels.it/",
+  "len": 69938
+ },
+ {
+  "url": "http://www.bologna.federalberghi.it",
+  "status": 200,
+  "final": "http://www.bologna.federalberghi.it/index.aspx",
+  "len": 60196
+ },
+ {
+  "url": "http://www.catania.federalberghi.it",
+  "status": null,
+  "err": "Server disconnected without sending a response."
+ },
+ {
+  "url": "http://www.cattolicahospitality.com",
+  "status": 200,
+  "final": "http://www.cattolicahospitality.com",
+  "len": 2994
+ },
+ {
+  "url": "http://www.chioggiahotel.it",
+  "status": 200,
+  "final": "https://www.chioggiahotel.it/",
+  "len": 130376
+ },
+ {
+  "url": "http://www.confcommerciocomo.it ",
+  "status": null,
+  "err": "[Errno -2] Name or service not known"
+ },
+ {
+  "url": "http://www.confcommerciocremona.it",
+  "status": 200,
+  "final": "https://www.confcommerciocremona.it/",
+  "len": 212372
+ },
+ {
+  "url": "http://www.confcommerciomantova.it",
+  "status": 200,
+  "final": "https://www.confcommerciomantova.it/",
+  "len": 80472
+ },
+ {
+  "url": "http://www.confcommerciomatera.it",
+  "status": 200,
+  "final": "https://www.confcommerciomatera.it/",
+  "len": 164674
+ },
+ {
+  "url": "http://www.confcommerciomolise.it",
+  "status": 200,
+  "final": "https://www.confcommerciomolise.it/",
+  "len": 192199
+ },
+ {
+  "url": "http://www.confcommerciosudsardegna.it",
+  "status": 200,
+  "final": "https://confcommerciosudsardegna.it/",
+  "len": 602618
+ },
+ {
+  "url": "http://www.confcommerciotrieste.it",
+  "status": 200,
+  "final": "https://www.confcommerciotrieste.it/",
+  "len": 57261
+ },
+ {
+  "url": "http://www.confcommercioverona.it/associazionealbergatori/",
+  "status": 404,
+  "final": "https://www.confcommercioverona.it/associazionealbergatori/",
+  "len": 8066
+ },
+ {
+  "url": "http://www.elbapromotion.it",
+  "status": 200,
+  "final": "https://elbapromotion.com/",
+  "len": 481521
+ },
+ {
+  "url": "http://www.eoliehotel.com/",
+  "status": 200,
+  "final": "http://www.eoliehotel.com/",
+  "len": 262
+ },
+ {
+  "url": "http://www.federalberghiagrigento.it",
+  "status": 200,
+  "final": "https://www.federalberghiagrigento.it/",
+  "len": 165842
+ },
+ {
+  "url": "http://www.federalberghibari.it",
+  "status": 200,
+  "final": "http://www.bari.federalberghi.it/index.aspx",
+  "len": 50251
+ },
+ {
+  "url": "http://www.federalberghibrescia.it",
+  "status": 200,
+  "final": "https://www.federalberghibrescia.it/",
+  "len": 230132
+ },
+ {
+  "url": "http://www.federalberghicampiflegrei.com",
+  "status": 200,
+  "final": "https://www.federalberghicampiflegrei.com/",
+  "len": 280910
+ },
+ {
+  "url": "http://www.federalberghigardaveneto.it",
+  "status": 200,
+  "final": "https://federalberghigardaveneto.it/",
+  "len": 564319
+ },
+ {
+  "url": "http://www.federalberghimessina.it",
+  "status": 200,
+  "final": "https://www.federalberghimessina.it/",
+  "len": 6392
+ },
+ {
+  "url": "http://www.federalberghisiena.it",
+  "status": 200,
+  "final": "https://siena.federalberghi.it/index.aspx",
+  "len": 55322
+ },
+ {
+  "url": "http://www.federalberghitorino.it",
+  "status": 200,
+  "final": "https://federalberghitorino.it/",
+  "len": 102280
+ },
+ {
+  "url": "http://www.federalberghivarese.it",
+  "status": 200,
+  "final": "https://federalberghivarese.it/",
+  "len": 238201
+ },
+ {
+  "url": "http://www.federhotels.it",
+  "status": 200,
+  "final": "https://www.federhotels.it/",
+  "len": 39534
+ },
+ {
+  "url": "http://www.hotels-cortina.com",
+  "status": 200,
+  "final": "https://associazionealbergatoricortina.com/",
+  "len": 135952
+ },
+ {
+  "url": "http://www.hotelsgenova.it",
+  "status": 200,
+  "final": "https://www.hotelsgenova.it/",
+  "len": 9854
+ },
+ {
+  "url": "http://www.ischiahotels.it",
+  "status": 200,
+  "final": "https://ischia.italyhotels.it/",
+  "len": 49506
+ },
+ {
+  "url": "http://www.laspezia.federalberghi.it",
+  "status": 200,
+  "final": "https://laspezia.federalberghi.it/index.aspx",
+  "len": 57089
+ },
+ {
+  "url": "http://www.macerata.federalberghi.it",
+  "status": 200,
+  "final": "https://macerata.federalberghi.it/index.aspx",
+  "len": 56407
+ },
+ {
+  "url": "http://www.maremmaetirreno.federalberghi.it",
+  "status": 200,
+  "final": "http://www.maremmaetirreno.federalberghi.it/index.aspx",
+  "len": 28711
+ },
+ {
+  "url": "http://www.myforte.it",
+  "status": 200,
+  "final": "https://www.myforte.it/",
+  "len": 9894
+ },
+ {
+  "url": "http://www.penisolasorrentina.federalberghi.it",
+  "status": 200,
+  "final": "http://www.penisolasorrentina.federalberghi.it/index.aspx",
+  "len": 67431
+ },
+ {
+  "url": "http://www.roma.federalberghi.it",
+  "status": 200,
+  "final": "https://roma.federalberghi.it/index.aspx",
+  "len": 67082
+ },
+ {
+  "url": "http://www.salerno.federalberghi.it",
+  "status": null,
+  "err": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.salerno.federalberghi.it'. (_ssl.c:10"
+ },
+ {
+  "url": "http://www.savona.federalberghi.it",
+  "status": 200,
+  "final": "http://www.savona.federalberghi.it/index.aspx",
+  "len": 43881
+ },
+ {
+  "url": "http://www.taohotels.com",
+  "status": 200,
+  "final": "http://www.taorminahotelassociation.com/",
+  "len": 114
+ },
+ {
+  "url": "http://www.taranto.federalberghi.it",
+  "status": 200,
+  "final": "http://www.taranto.federalberghi.it/index.aspx",
+  "len": 105282
+ },
+ {
+  "url": "http://www.toscanamare.com",
+  "status": 200,
+  "final": "https://www.toscanamare.com/",
+  "len": 45352
+ },
+ {
+  "url": "http://www.udine.federalberghi.it",
+  "status": null,
+  "err": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.udine.federalberghi.it'. (_ssl.c:1029"
+ },
+ {
+  "url": "http://www.umbria.federalberghi.it",
+  "status": 200,
+  "final": "http://www.umbria.federalberghi.it/index.aspx",
+  "len": 78137
+ },
+ {
+  "url": "http://www.venezia.federalberghi.it",
+  "status": 200,
+  "final": "https://venezia.federalberghi.it/index.aspx",
+  "len": 95332
+ },
+ {
+  "url": "http://www.viareggionline.it",
+  "status": 200,
+  "final": "http://www.viareggionline.it",
+  "len": 27716
+ },
+ {
+  "url": "http://www.viterbo.federalberghi.it",
+  "status": 200,
+  "final": "http://www.viterbo.federalberghi.it/index.aspx",
+  "len": 55907
+ },
+ {
+  "url": "https://alessandria.federalberghi.it/index.aspx#",
+  "status": 200,
+  "final": "https://alessandria.federalberghi.it/index.aspx#",
+  "len": 74121
+ },
+ {
+  "url": "https://federalberghicaorle.it",
+  "status": 200,
+  "final": "https://federalberghicaorle.it",
+  "len": 37604
+ },
+ {
+  "url": "https://www.confcommerciobergamo.it/",
+  "status": 200,
+  "final": "https://www.confcommerciobergamo.it/",
+  "len": 148308
+ }
+]

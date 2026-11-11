@@ -1,0 +1,416 @@
+[
+ {
+  "nome": "Alto Ferrarese - sede di Cento",
+  "provincia": "Ferrara",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ferrara/alto-ferrarese-sede-di-cento",
+  "indirizzo": "IV Novembre 11 - Cento 44042",
+  "competenza": "Bondeno - Cento - Poggio Renatico - Terre del Reno - Vigarano Mainarda",
+  "telefono": "051/5279393",
+  "email": "impiego.cento@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Alto Reno Terme",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/alto-reno-terme",
+  "indirizzo": "Via Mazzini 184 A e B - Porretta Terme 40046",
+  "competenza": "Comuni di Alto Reno Terme, Camugnano, Castel d'Aiano, Castel di Casio, Castiglione dei Pepoli, Gaggio Montano, Grizzana Morandi, Lizzano in Belvedere, Marzabotto, Monzuno, San Benedetto Val di Sambro, Vergato.",
+  "telefono": "0534.521011",
+  "email": "impiego.porretta@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Bagno di Romagna",
+  "provincia": "Forlì-Cesena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-forli-cesena/bagno-di-romagna",
+  "indirizzo": "Via del Teatro, 1 - San Piero in Bagno 47021",
+  "competenza": null,
+  "telefono": "0543.917167",
+  "email": "impiego.cesena@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Basso Ferrarese - sede di Codigoro",
+  "provincia": "Ferrara",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ferrara/basso-ferrarese-sede-di-codigoro",
+  "indirizzo": "viale Papa Giovanni XXIII n. 3 - Codigoro 44021",
+  "competenza": "Argenta - Codigoro - Comacchio - Goro - Lagosanto - Fiscaglia - Mesola - Ostellato - Portomaggiore",
+  "telefono": "0533/609101",
+  "email": "impiego.codigoro@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Bologna",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/bologna",
+  "indirizzo": "Via Tiarini 10/1 - Bologna 40129",
+  "competenza": "Comune di Bologna",
+  "telefono": "051 5279337",
+  "email": "impiego.bologna@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Borgo Val di Taro",
+  "provincia": "Parma",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-parma/borgo-val-di-taro",
+  "indirizzo": "Via Alberto Zanré 2/A - Borgo Val di Taro (PR) 43043",
+  "competenza": "Albareto, Bardi, Bedonia, Berceto, Bore, Borgo Val Di Taro, Compiano, Fornovo Di Taro, Medesano, Pellegrino Parmense, Solignano, Terenzo, Tornolo, Valmozzola, Varano De' Melegari, Varsi",
+  "telefono": "0525/930011",
+  "email": "impiego.borgotaro@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Carpi",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/carpi",
+  "indirizzo": "Via Don Sturzo 21 - Carpi (MO) 41012",
+  "competenza": "Carpi - Campogalliano - Novi di Modena - Soliera",
+  "telefono": "059248601",
+  "email": "impiego.carpi@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Castel San Giovanni",
+  "provincia": "Piacenza",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-piacenza/castel-san-giovanni",
+  "indirizzo": "Via Melchiorre Gioia 1/A - Castel San Giovanni 29015",
+  "competenza": "Agazzano, Alta Val Tidone, Bobbio, Borgonovo Val Tidone, Calendasco, Castel San Giovanni, Cerignale, Coli, Corte Brugnatella, Gazzola, Gossolengo, Gragnano Trebbiense, Ottone,  Pianello Val Tidone, Piozzano, Rivergaro, Rottofreno, Sarmato, Travo, Zerba, Ziano Piacentino",
+  "telefono": "0523.399749",
+  "email": "impiego.castelsangiovanni@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Castelfranco Emilia",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/castelfranco-emilia",
+  "indirizzo": "Via Agnini, 61 - Castelfranco Emilia MO 41013",
+  "competenza": "Bastiglia Bomporto Castelfranco Emilia Nonantola Ravarino San Cesario sul Panaro",
+  "telefono": "059 248779",
+  "email": "Impiego.Castelfrancoemilia@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Castelnovo Monti",
+  "provincia": "Reggio Emilia",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-reggio-emilia/castelnovo-ne-monti",
+  "indirizzo": "Via Roma 12 a - Castelnovo nè Monti (RE) 42035",
+  "competenza": "Casina, Carpineti, Castelnovo Ne' Monti, Ventasso, Villa Minozzo, Vetto d'Enza, Toano.",
+  "telefono": "0522936613",
+  "email": "Impiego.castelnovomonti@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Castiglione dei Pepoli",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/castiglione-dei-pepoli",
+  "indirizzo": "Piazza della Libertà 36 - Castiglione dei Pepoli Bologna 40035",
+  "competenza": null,
+  "telefono": "0534 521011",
+  "email": "impiego.porretta@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Cervia",
+  "provincia": "Ravenna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ravenna/cervia",
+  "indirizzo": "Viale Roma 33 - Cervia 48015",
+  "competenza": "Sede decentrata del Centro per l'impiego di Ravenna",
+  "telefono": "0544 457611",
+  "email": "impiego.ravenna@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Cesena",
+  "provincia": "Forlì-Cesena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-forli-cesena/cesena",
+  "indirizzo": "Piazzale Karl Marx 160 - Cesena 47521",
+  "competenza": "Bagno di Romagna, San Piero in Bagno (sede decentrata), CESENA , Mercato Saraceno, Montiano, Sarsina, Verghereto",
+  "telefono": "0547.621441",
+  "email": "impiego.cesena@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Cesenatico",
+  "provincia": "Forlì-Cesena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-forli-cesena/cesenatico",
+  "indirizzo": "Squero, 65 - Cesenatico 47042",
+  "competenza": null,
+  "telefono": "0541.794800",
+  "email": "impiego.savignanosulrubicone@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Correggio",
+  "provincia": "Reggio Emilia",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-reggio-emilia/correggio",
+  "indirizzo": "Piazza Garibaldi 7 - Correggio 42015",
+  "competenza": "Correggio, San Martino in Rio, Rio Saliceto, Rolo, Fabbrico, Campagnola Emilia",
+  "telefono": "0522936601",
+  "email": "Impiego.correggio@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Faenza",
+  "provincia": "Ravenna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ravenna/faenza",
+  "indirizzo": "Via S. Silvestro, 3 - Faenza 48018",
+  "competenza": "Brisighella, Casola Valsenio, Castel Bolognese, Faenza, Riolo Terme, Solarolo.",
+  "telefono": "0546 689601",
+  "email": "impiego.faenza@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Ferrara",
+  "provincia": "Ferrara",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ferrara/ferrara",
+  "indirizzo": "Via Arturo Cassoli 56 - Ferrara 44121",
+  "competenza": "Ferrara - Copparo - Jolanda di Savoia - Masi Torello - Riva del Po - Tresignana - Voghiera",
+  "telefono": "0532/292611",
+  "email": "impiego.ferrara@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Fidenza",
+  "provincia": "Parma",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-parma/Fidenza",
+  "indirizzo": "Piazza Repubblica, 20 - Fidenza 43036",
+  "competenza": "Busseto, Fidenza, Salsomaggiore Terme, Soragna, Fontanellato, Fontevivo, Noceto, San Secondo Parmense, Roccabianca, Sissa-Trecasali, Polesine-Zibello",
+  "telefono": "0524/207911",
+  "email": "impiego.fidenza@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Fiorenzuola d'Arda",
+  "provincia": "Piacenza",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-piacenza/fiorenzuola-darda",
+  "indirizzo": "Piazzale Massimo D'Azeglio, 3 - Fiorenzuola d'Arda 29017",
+  "competenza": "Alseno, Besenzone, Bettola, Cadeo, Caorso, Carpaneto Piacentino, Castell'Arquato, Castelvetro Piacentino, Cortemaggiore, Farini, Ferriere, Fiorenzuola d'Arda, Gropparello, Lugagnano Val d'Arda, Monticelli d'Ongina, Morfasso, Podenzano, Ponte dell'Olio, Pontenure, San Giorgio Piacentino, San Pietro in Cerro, Vernasca, Vigolzone, Villanova sull'Arda",
+  "telefono": "0523.399760",
+  "email": "impiego.fiorenzuola@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Forlì",
+  "provincia": "Forlì-Cesena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-forli-cesena/forli",
+  "indirizzo": "Salinatore, 24 - Forlì 47121",
+  "competenza": "Bertinoro, Castrocaro Terme Terra del Sole, Civitella di Romagna, Dovadola, FORLI' , Forlimpopoli, Galeata, Meldola, Modigliana, Portico San Benedetto, Predappio, Premilcuore, Rocca San Casciano, Santa Sofia, Tredozio",
+  "telefono": "0543.454711",
+  "email": "impiego.forli@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Fornovo",
+  "provincia": "Parma",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-parma/fornovo",
+  "indirizzo": "Via Solferino, 48/a - Fornovo di Taro (PR) 43045",
+  "competenza": "Albareto, Bardi, Bedonia, Berceto, Bore, Borgo Val Di Taro, Compiano, Fornovo Di Taro, Medesano, Pellegrino Parmense, Solignano, Terenzo, Tornolo, Valmozzola, Varano De' Melegari, Varsi",
+  "telefono": "0525930011",
+  "email": "impiego.fornovo@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Guastalla",
+  "provincia": "Reggio Emilia",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-reggio-emilia/guastalla",
+  "indirizzo": "Piazza Matteotti 4 - Guastalla (RE) 42016",
+  "competenza": "Boretto, Brescello, Gualtieri, Guastalla, Luzzara, Novellara, Poviglio, Reggiolo",
+  "telefono": "0522407701",
+  "email": "Impiego.guastalla@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Imola",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/imola",
+  "indirizzo": "via Boccaccio, 27 - Imola 40026",
+  "competenza": "Comuni di Imola, Borgo Tossignano, Casalfiumanese, Castel del Rio, Castel Guelfo, Castel San Pietro Terme, Dozza, Fontanelice, Medicina, Mordano",
+  "telefono": "0542.655 301",
+  "email": "impiego.imola@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Langhirano",
+  "provincia": "Parma",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-parma/langhirano",
+  "indirizzo": "Via Del Popolo, 17 - Langhirano (PR) 43013",
+  "competenza": "Langhirano, Collecchio, Sala Baganza, Felino, Calestano, Tizzano Val Parma, Corniglio, Monchio delle Corti, Lesignano de' Bagni, Montechiarugolo, Traversetolo, Neviano Negli Arduini, Palanzano",
+  "telefono": "0521/531350",
+  "email": "impiego.langhirano@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Lugo",
+  "provincia": "Ravenna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ravenna/lugo",
+  "indirizzo": "Piazzale Giosuè Carducci 16 - Lugo 48022",
+  "competenza": "Lugo, Alfonsine, Bagnacavallo, Bagnara di Romagna, Conselice, Cotignola, Fusignano, Massa Lombarda, Sant'Agata sul Santerno.",
+  "telefono": "0545 937901",
+  "email": "impiego.lugo@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Minerbio",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/minerbio",
+  "indirizzo": "Via Savena Inferiore, 2 - Minerbio 40061",
+  "competenza": "Comuni di Minerbio, Argelato, Baricella, Bentivoglio, Budrio, Castello d'Argile, Castenaso, Castel Maggiore, Galliera, Granarolo Emilia, Malalbergo, Molinella, Pieve di Cento, San Giorgio di Piano, San Pietro in Casale.",
+  "telefono": "051.5279601",
+  "email": "impiego.minerbio@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Mirandola",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/mirandola",
+  "indirizzo": "Via Giolitti 22/1 - Mirandola 41037",
+  "competenza": "Camposanto -Cavezzo -Concordia sulla Secchia -Finale Emilia-Medolla-Mirandola-San Felice sul Panaro-San Possidonio-San Prospero",
+  "telefono": "0535600211",
+  "email": "Impiego.Mirandola@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Modena",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/modena",
+  "indirizzo": "Viale del Mercato, 13 - Modena 41122",
+  "competenza": "Modena",
+  "telefono": "0592914211",
+  "email": "Impiego.modena@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Montecchio Emilia",
+  "provincia": "Reggio Emilia",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-reggio-emilia/montecchio-emilia",
+  "indirizzo": "Piazzale Cavour 28 - Montecchio Emilia 42027",
+  "competenza": "Bibbiano, Campegine, Canossa, Cavriago, Gattatico, Montecchio Emilia, San Polo d'Enza, Sant'Ilario d'Enza",
+  "telefono": "0522407710",
+  "email": "Impiego.montecchio@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Parma",
+  "provincia": "Parma",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-parma/parma",
+  "indirizzo": "Strada Nino Bixio, 161/A - Parma (PR) 43125",
+  "competenza": "Parma, Colorno, Sorbolo-Mezzani e Torrile",
+  "telefono": "0521531311",
+  "email": "impiego.parma@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Pavullo nel Frignano",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/pavullo",
+  "indirizzo": "Via del Mercato, 28/32 - Pavullo nel Frignano 41026",
+  "competenza": "Fanano -Fiumalbo-Lama -Montecreto-Pavullo nel Frignano-Pievepelago-Polinago-Riolunato-Serramazzoni-Sestola",
+  "telefono": "0536988501",
+  "email": "Impiego.Pavullo@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Piacenza",
+  "provincia": "Piacenza",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-piacenza/piacenza",
+  "indirizzo": "Piazzale Marconi, 34 - Piacenza 29121",
+  "competenza": "Piacenza",
+  "telefono": "0523/399711",
+  "email": "impiego.piacenza@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Pietracuta",
+  "provincia": "Rimini",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-rimini/pietracuta-di-san-leo",
+  "indirizzo": "Piazza Primo Maggio 9 - 1° piano - Pietracuta di San Leo 47865",
+  "competenza": null,
+  "telefono": "0541.446276",
+  "email": "impiego.rimini@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Ravenna",
+  "provincia": "Ravenna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-ravenna/ravenna",
+  "indirizzo": "via di Roma 167 - Ravenna 48121",
+  "competenza": "Ravenna, Cervia, Russi.",
+  "telefono": "0544 457611",
+  "email": "impiego.ravenna@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Reggio Emilia",
+  "provincia": "Reggio Emilia",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-reggio-emilia/reggio-emilia",
+  "indirizzo": "Via Premuda 40 - Reggio Emilia 42123",
+  "competenza": "Reggio Emilia, Albinea, Bagnolo in Piano, Cadelbosco Sopra, Castelnovo Sotto, Quattro Castella, Vezzano sul Crostolo",
+  "telefono": "0522936611",
+  "email": "Impiego.reggioemilia@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Riccione",
+  "provincia": "Rimini",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-rimini/riccione",
+  "indirizzo": "Via Carpi 2 - Riccione 47838",
+  "competenza": "Il Centro per l'impiego di Riccione ha competenza sui territori comunali di Cattolica, Coriano, Gemmano, Misano Adriatico, Mondaino, Montescudo-Montecolombo, Montefiore Conca, Montegridolfo, Morciano di Romagna, Riccione, Saludecio, San Clemente, San Giovanni in Marignano, Sassofeltrio.",
+  "telefono": "0541 446260",
+  "email": "impiego.riccione@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Rimini",
+  "provincia": "Rimini",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-rimini/rimini",
+  "indirizzo": "Via Carlo Farini 6 - Rimini 47921",
+  "competenza": "Il Centro per l'impiego di Rimini ha competenza sui territori comunali di Bellaria-Igea Marina, Casteldelci, Maiolo, Montecopiolo, Novafeltria, Pennabilli, Poggio Torriana, Rimini, San Leo, Sant’Agata Feltria, Santarcangelo di Romagna, Talamello, Verucchio. Al Centro per l'impiego di Rimini fanno riferimento le sedi decentrate di Santarcangelo di Romagna e di Pietracuta di San Leo .",
+  "telefono": "0541 446211",
+  "email": "impiego.rimini@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "San Giovanni in Persiceto",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/san-giovanni-in-persiceto",
+  "indirizzo": "Circonvallazione Dante Alighieri n. 20 - San Giovanni in Persiceto 40017",
+  "competenza": "Comuni di San Giovanni in Persiceto, Anzola dell'Emilia, Calderara di Reno, Crevalcore, Sala Bolognese, Sant'Agata Bolognese",
+  "telefono": "051 5279511",
+  "email": "impiego.persiceto@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "San Lazzaro di Savena",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/san-lazzaro-di-savena",
+  "indirizzo": "via Emilia, 282/A - San Lazzaro di Savena 40068",
+  "competenza": "Comuni di San Lazzaro di Savena, Loiano, Monghidoro, Monterenzio, Ozzano Emilia e Pianoro",
+  "telefono": "051.527 9611",
+  "email": "impiego.sanlazzaro@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Santarcangelo di Romagna",
+  "provincia": "Rimini",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-rimini/santarcangelo-di-romagna",
+  "indirizzo": "Via Giovanni da Serravalle 8 - Santarcangelo di Romagna 47822",
+  "competenza": null,
+  "telefono": "0541 446210",
+  "email": "Impiego.rimini@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Sassuolo",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/sassuolo",
+  "indirizzo": "via Decorati al Valor Militare n.64 (Direzionale “I Quadrati”,  1° piano) - Sassuolo 41049",
+  "competenza": "Fiorano Modenese-Formigine-Frassinoro-Maranello-Montefiorino-Palagano-Prignano sulla Secchia-Sassuolo",
+  "telefono": "0536988511",
+  "email": "Impiego.Sassuolo@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Savignano sul Rubicone",
+  "provincia": "Forlì-Cesena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-forli-cesena/savignano-sul-rubicone",
+  "indirizzo": "Piazza Giovanni XXIII, 10 - Savignano sul Rubicone 47039",
+  "competenza": "Borghi, Cesenatico (sede decentrata), Gambettola, Gatteo, Longiano, San Mauro Pascoli, Savignano sul Rubicone , Sogliano sul Rubicone, Roncofreddo",
+  "telefono": "0541.794800",
+  "email": "impiego.savignanosulrubicone@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Scandiano",
+  "provincia": "Reggio Emilia",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-reggio-emilia/scandiano",
+  "indirizzo": "Via Longarone, 8 - Scandiano 42019",
+  "competenza": "Baiso, Casalgrande, Castellarano, Rubiera, Scandiano, Viano.",
+  "telefono": "0522 936600",
+  "email": "Impiego.scandiano@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Vado (Monzuno)",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/vado",
+  "indirizzo": "Piazza della Libertà 8/a - Vado 40036",
+  "competenza": null,
+  "telefono": "0534.521011",
+  "email": "impiego.porretta@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Vignola",
+  "provincia": "Modena",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-modena/vignola",
+  "indirizzo": "Via Montanara, 696 - Vignola 41058",
+  "competenza": "Castelnuovo Rangone-Castelvetro di Modena-Guiglia-Marano sul Panaro-Montese-Savignano sul Panaro-Spilamberto-Vignola-Zocca",
+  "telefono": "059248600",
+  "email": "Impiego.vignola@regione.emilia-romagna.it"
+ },
+ {
+  "nome": "Zola Predosa",
+  "provincia": "Bologna",
+  "url": "https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-bologna/zola-predosa",
+  "indirizzo": "Vicolo Pascoli, 1  Riale - Zola Predosa 40069",
+  "competenza": null,
+  "telefono": "051 5278929",
+  "email": "impiego.zolapredosa@regione.emilia-romagna.it"
+ }
+]

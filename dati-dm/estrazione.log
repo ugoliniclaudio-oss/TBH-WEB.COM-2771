@@ -1,0 +1,15 @@
+video in elenco: 400
+blocco   0-40  tenuti=0    prima del 20260810=0    falliti=40
+blocco  40-80  tenuti=0    prima del 20260810=0    falliti=80
+blocco  80-120 tenuti=0    prima del 20260810=0    falliti=120
+blocco 120-160 tenuti=0    prima del 20260810=0    falliti=160
+blocco 160-200 tenuti=0    prima del 20260810=0    falliti=200
+blocco 200-240 tenuti=0    prima del 20260810=0    falliti=240
+blocco 240-280 tenuti=0    prima del 20260810=0    falliti=280
+blocco 280-320 tenuti=0    prima del 20260810=0    falliti=320
+blocco 320-360 tenuti=0    prima del 20260810=0    falliti=360
+blocco 360-400 tenuti=0    prima del 20260810=0    falliti=400
+
+TENUTI 0 video dal 20260810
+falliti (nessuna risposta da YouTube): 400
+scritto /home/user/tbh-web/dati-dm/recenti.json

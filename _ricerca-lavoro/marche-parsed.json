@@ -1,0 +1,132 @@
+[
+ {
+  "nome": "Centro impiego Ancona",
+  "sigla": "AN",
+  "provincia": "Ancona",
+  "indirizzo": "PIAZZA SALVO D'ACQUISTO, 29",
+  "telefono": "071/2137521",
+  "email": "centroimpiegoancona@regione.marche.it",
+  "competenza": "Agugliano, Ancona, Camerano, Castelfidardo, Falconara Marittima, Loreto, Montemarciano, Numana, Offagna, Osimo, Polverigi, Sirolo",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Ancona"
+ },
+ {
+  "nome": "Centro impiego Fabriano",
+  "sigla": "AN",
+  "provincia": "Ancona",
+  "indirizzo": "VIA RINALDA PAVONI, 12",
+  "telefono": "0732/779299",
+  "email": "centroimpiegofabriano@regione.marche.it",
+  "competenza": "Arcevia, Cerreto d'Esi, Fabriano, Genga, Sassoferrato, Serra San Quirico",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Fabriano"
+ },
+ {
+  "nome": "Centro impiego Jesi",
+  "sigla": "AN",
+  "provincia": "Ancona",
+  "indirizzo": "VIALE DEL LAVORO, 32",
+  "telefono": "0731 220301",
+  "email": "centroimpiegojesi@regione.marche.it",
+  "competenza": "Belvedere Ostrense, Camerata Picena, Castelbellino, Castelplanio, Chiaravalle, Cupramontana, Filottrano, Jesi, Maiolati Spontini, Mergo, Monsano, Monte Roberto, Monte San Vito, Montecarotto, Morro d'Alba, Poggio San Marcello, Rosora, San Marcello, San Paolo di Jesi, Santa Maria Nuova, Staffolo",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Jesi"
+ },
+ {
+  "nome": "Centro impiego Senigallia",
+  "sigla": "AN",
+  "provincia": "Ancona",
+  "indirizzo": "VIA CAMPO BOARIO,",
+  "telefono": "071/7931801",
+  "email": "centroimpiegosenigallia@regione.marche.it",
+  "competenza": "Barbara, Castelleone di Suasa, Corinaldo, Ostra, Ostra Vetere, Senigallia, Serra De' Conti Trecastelli",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Senigallia"
+ },
+ {
+  "nome": "Centro impiego Ascoli Piceno",
+  "sigla": "AP",
+  "provincia": "Ascoli Piceno",
+  "indirizzo": "VIA KENNEDY, 34/36",
+  "telefono": "0736/352800",
+  "email": "centroimpiegoascolipiceno@regione.marche.it",
+  "competenza": "Acquasanta Terme, Appignano del Tronto, Arquata del Tronto, Ascoli Piceno, Castel di Lama, Castorano, Colli del Tronto, Comunanza, Folignano, Force, Maltignano, Montegallo, Montemonaco, Palmiano, Roccafluvione, Spinetoli, Venarotta",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Ascoli-Piceno"
+ },
+ {
+  "nome": "Centro impiego San Benedetto del Tronto",
+  "sigla": "AP",
+  "provincia": "Ascoli Piceno",
+  "indirizzo": "Via Mare, 218",
+  "telefono": "0735/655600",
+  "email": "centroimpiegosanbenedetto@regione.marche.it",
+  "competenza": "Acquaviva Picena, Carassai, Castignano, Cossignano, Cupra Marittima, Grottammare, Massignano, Monsampolo del Tronto, Montalto delle Marche, Montedinove, Montefiore dell'Aso, Monteprandone, Offida, Ripatransone, Rotella, San Benedetto del Tronto",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/San-Benedetto-del-Tronto"
+ },
+ {
+  "nome": "Centro impiego Fermo",
+  "sigla": "FM",
+  "provincia": "Fermo",
+  "indirizzo": "VIA SAPRI, 65",
+  "telefono": "0734/212601",
+  "email": "centroimpiegofermo@regione.marche.it",
+  "competenza": "Altidona, Amandola, Belmonte Piceno, Campofilone, Falerone, Fermo, Francavilla d'Ete, Grottazzolina, Lapedona, Magliano di Tenna, Massa Fermana, Monsampietro Morico, Montappone, Montefalcone Appennino, Montefortino, Monte Gilberto, Montegiorgio, Montegranaro, Monteleone di Fermo, Montelparo, Monte Rinaldo, Monterubbiano, Monte San Pietrangeli, Monte Urano, Monte Vidon Combatte, Monte Vidon Corrado, Montottone, Moresco, Ortezzano, Pedaso, Petritoli, Ponzano di Fermo, Porto San Giorgio, Porto Sant'Elpidio, Rapagnano, Santa Vittoria in Matenano, Sant'Elpidio a Mare, Servigliano, Smerillo, Torre San Patrizio",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Fermo"
+ },
+ {
+  "nome": "Centro impiego Tolentino",
+  "sigla": "MC",
+  "provincia": "Macerata",
+  "indirizzo": "VIALE DELLA REPUBBLICA, 10",
+  "telefono": "0733/954201",
+  "email": "centroimpiegotolentino@regione.marche.it",
+  "competenza": "Belforte del Chienti, Bolognola, Caldarola, Camerino, Camporotondo di Fiastrone, Castelraimondo, Castelsantangelo sul Nera, Cessapalombo, Colmurano, Esanatoglia, Fiastra, Fiuminata, Gagliole, Gualdo, Loro Piceno, Matelica, Monte Cavallo, Monte San Martino, Muccia, Penna San Giovanni, Pieve Torina, Pioraco, Ripe San Ginesio, San Ginesio, San Severino Marche, Sant'Angelo in Pontano, Sarnano, Sefro, Serrapetrona, Serravalle di Chienti, Tolentino, Urbisaglia, Ussita, Visso, Valfornace",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Tolentino"
+ },
+ {
+  "nome": "Centro impiego Civitanova Marche",
+  "sigla": "MC",
+  "provincia": "Macerata",
+  "indirizzo": "VIA MARINETTI, 2",
+  "telefono": "0733/827801",
+  "email": "centroimpiegocivitanovamarche@regione.marche.it",
+  "competenza": "Civitanova Marche, Montecosaro, Montefano, Montelupone, Monte San Giusto, Morrovalle, Porto Recanati, Potenza Picena, Recanati",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Civitanova-Marche"
+ },
+ {
+  "nome": "Centro impiego Macerata",
+  "sigla": "MC",
+  "provincia": "Macerata",
+  "indirizzo": "P.zzale Mercurio, 63",
+  "telefono": "0733/363101",
+  "email": "centroimpiegomacerata@regione.marche.it",
+  "competenza": "Apiro, Appignano, Cingoli, Corridonia, Macerata, Mogliano, Montecassiano, Petriolo, Poggio San Vicino, Pollenza, Treia",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Macerata"
+ },
+ {
+  "nome": "Centro impiego Fano",
+  "sigla": "PU",
+  "provincia": "Pesaro e Urbino",
+  "indirizzo": "VIA DE CUPPIS, 2",
+  "telefono": "0721/822701",
+  "email": "centroimpiegofano@regione.marche.it",
+  "competenza": "Cartoceto, Fano, Fossombrone, Fratte Rosa, Frontone, Isola del Piano, Mondavio, Mondolfo, Montefelcino, Monte Porzio, Pergola, San Costanzo, San Lorenzo in Campo, Sant'Ippolito, Serra Sant'Abbondio, Colli al Metauro, Terre Roveresche",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Fano"
+ },
+ {
+  "nome": "Centro impiego Pesaro",
+  "sigla": "PU",
+  "provincia": "Pesaro e Urbino",
+  "indirizzo": "Via Luca della Robbia, 4",
+  "telefono": "0721/6303800",
+  "email": "centroimpiegopesaro@regione.marche.it",
+  "competenza": "Gabicce Mare, Gradara, Mombaroccio, Monteciccardo, Montelabbate, Pesaro, Tavullia, Vallefoglia",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Pesaro"
+ },
+ {
+  "nome": "Centro impiego Urbino",
+  "sigla": "PU",
+  "provincia": "Pesaro e Urbino",
+  "indirizzo": "VIA SS ANNUNZIATA, 51",
+  "telefono": "0722/356201",
+  "email": "centroimpiegourbino@regione.marche.it",
+  "competenza": "Acqualagna, Apecchio, Belforte all'Isauro, Borgo Pace, Cagli, Cantiano, Carpegna, Fermignano, Frontino, Lunano, Macerata Feltria, Mercatello sul Metauro, Mercatino Conca, Montecalvo in Foglia, Monte Cerignone, Monte Grimano Terme, Peglio, Petriano, Piandimeleto, Pietrarubbia, Piobbico, Sant'Angelo in Vado, Sassocorvaro/Auditore, Tavoleto, Urbania, Urbino",
+  "url": "https://www.regione.marche.it/Entra-in-Regione/Descrizione-dei-servizi-dei-CPI/Urbino"
+ }
+]

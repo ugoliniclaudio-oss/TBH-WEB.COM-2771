@@ -1,0 +1,20 @@
+[
+  {
+    "id": "FIE-999",
+    "categoria": "fiere-location",
+    "nome": "Nome della fiera",
+    "logoUrl": "https://sito-ufficiale/logo.svg",
+    "immagine1": null,
+    "immagine2": null,
+    "galleryUrl": null,
+    "sito": "https://sito-ufficiale/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=indirizzo",
+    "youtube": null,
+    "social": [{ "rete": "Facebook", "url": "https://facebook.com/pagina" }],
+    "paginaTbh": "/touch-travels",
+    "provenienzaImmagini": "immagine-ufficiale",
+    "fonte": "Sito ufficiale consultato il GG/MM/AAAA",
+    "stato": "verificato",
+    "nota": null
+  }
+]

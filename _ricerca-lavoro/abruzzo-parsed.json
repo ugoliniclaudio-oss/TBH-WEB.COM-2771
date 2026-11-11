@@ -1,0 +1,137 @@
+[
+ {
+  "nome": "CPI L'Aquila",
+  "provincia": "L'Aquila",
+  "indirizzo": "Via Rocco Carabba, 4",
+  "telefono": "0862 1961030",
+  "email": "cpi.laquila@regione.abruzzo.it",
+  "sedi": "Montereale: momentanemente chiusa Barisciano: momentanemente chiusa Capestrano: 0862 1965152",
+  "competenza": "Cagnano Amiterno Calascio Campotosto Capestrano Capitignano Caporciano Carapelle Calvisio Castel del Monte Castelvecchio Calvisio Collepietro Fagnano Alto Fontecchio Fossa L'Aquila Lucoli Montereale Navelli Ocre Ofena Pizzoli Poggio Picenze Prata D'Ansidonia Rocca di Cambio Rocca di Mezzo San Benedetto in Perillis San Demetrio ne' Vestini San Pio delle Camere Sant'Eusanio Forconese Santo Stefano di Sessanio Scoppito Tione degli Abruzzi Tornimparte Villa Santa Lucia degli Abruzzi Villa Sant'Angelo"
+ },
+ {
+  "nome": "CPI Avezzano",
+  "provincia": "L'Aquila",
+  "indirizzo": "Piazzale Kennedy (c/o Galleria Kennedy)",
+  "telefono": "0863 1854085",
+  "email": "cpi.avezzano@regione.abruzzo.it",
+  "sedi": "Carsoli: 0863 1858145 Celano: 0863 1855182 Civitella Roveto: momentanamente chiusa. Rivolgersi a 0863 1854085 Pescina: 0863 1857106 Tagliacozzo: 0863 1857126 Trasacco: momentaneamente chiusa",
+  "competenza": "Aielli Avezzano Balsorano Bisegna Canistro Capistrello Cappadocia Carsoli Castellafiume Celano Cerchio Civita d'Antino Civitella Roveto Collarmele Collelongo Gioia dei Marsi Lecce nei Marsi Luco dei Marsi Magliano de' Marsi Massa d'albe Morino Oricola Ortona dei Marsi Ortucchio Ovindoli Pereto Pescina Rocca di Botte San Benedetto dei Marsi San Vincenzo Valle Roveto Sante Marie Scurcola Marsicana Tagliacozzo Trasacco Villavallelonga"
+ },
+ {
+  "nome": "CPI Castel di Sangro",
+  "provincia": "L'Aquila",
+  "indirizzo": "Piazzale Prato Cardillo, snc",
+  "telefono": "0864 572789",
+  "email": "cpi.casteldisangro@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Alfedena Ateleta Barrea Castel di Sangro Civitella Alfedena Opi Pescasseroli Pescocostanzo Rivisondoli Roccaraso Scontrone Villetta Barrea"
+ },
+ {
+  "nome": "CPI Sulmona",
+  "provincia": "L'Aquila",
+  "indirizzo": "Via L’Aquila, 1",
+  "telefono": "0864 577957",
+  "email": "cpi.sulmona@regione.abruzzo.it",
+  "sedi": "Campo di Giove: temporeneamente non operativa Castelvecchio Subequo: 0864 700932 Pratola Peligna: temporeneamente non operativa Scanno:temporeneamente non operativa",
+  "competenza": "Anversa degli Abruzzi Bugnara Campo di Giove Cansano Castel di Ieri Castelvecchio Subequo Cocullo Corfinio Gagliano Aterno Goriano Sicoli Introdacqua Molina Aterno Pacentro Pettorano sul Gizio Pratola Peligna Prezza Raiano Rocca Pia Roccacasale Scanno Secinaro Sulmona Villalago Vittorito"
+ },
+ {
+  "nome": "CPI Chieti",
+  "provincia": "Chieti",
+  "indirizzo": "Via Spezioli, 42",
+  "telefono": "0871 446036",
+  "email": "cpi.chieti@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Bucchianico Casalincontrada Chieti Francavilla al Mare Ripa Teatina San Giovanni Teatino Torrevecchia Teatina Villamagna"
+ },
+ {
+  "nome": "CPI Lanciano",
+  "provincia": "Chieti",
+  "indirizzo": "Località Iconicella, presso Polo fieristico",
+  "telefono": "0872 596429",
+  "email": "cpi.lanciano@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Altino Archi Atessa Bomba Borrello Casoli Castel Frentano Civitaluparella Civitella Messer Raimondo Colledimacine Colledimezzo Fallo Fara San Martino Fossacesia Frisa Gamberale Gessopalena Lama dei Peligni Lanciano Lettopalena Montebello sul Sangro Monteferrante Montelapiano Montenerodomo Mozzagrogna Paglieta Palena Palombaro Pennadomo Perano Pietraferrazzana Pizzoferrato Quadri Rocca San Giovanni Roccascalegna Roio del Sangro Rosello San Vito Chietino Santa Maria Imbaro Sant'Eusanio del Sangro Taranta Peligna Torino di Sangro Tornareccio Torricella Peligna Treglio Villa Santa Maria"
+ },
+ {
+  "nome": "CPI Ortona",
+  "provincia": "Chieti",
+  "indirizzo": "Via Tommaso Mosca 76026- Ortona",
+  "telefono": "085 7996860",
+  "email": "cpi.ortona@regione.abruzzo.it",
+  "sedi": "Guardiagrele: 087185941",
+  "competenza": "Ari Arielli Canosa Sannita Casacanditella Crecchio Fara Filiorum Petri Filetto Giuliano Teatino Guardiagrele Miglianico Orsogna Ortona Pennapiedimonte Poggiofiorito Pretoro Rapino Roccamontepiano San Martino sulla Marrucina Tollo Vacri"
+ },
+ {
+  "nome": "CPI Vasto",
+  "provincia": "Chieti",
+  "indirizzo": "Via Maddalena, 61",
+  "telefono": "0873 568762",
+  "email": "cpi.vasto@regione.abruzzo.it",
+  "sedi": "Castiglion Messer Marino: attualemente non operativa",
+  "competenza": "Carpineto Sinello Carunchio Casalanguida Casalbordino Castelguidone Castiglione Messer Marino Celenza sul Trigno Colledimezzo Cupello Dogliola Fraine Fresagrandinaria Furci Gissi Guilmi Lentella Liscia Montazzoli Monteodorisio Palmoli Pollutri Roccaspinalveti San Buono San Giovanni Lipioni San Salvo Scerni Schiavi di Abruzzo Torrebruna Tufillo Vasto Villalfonsina"
+ },
+ {
+  "nome": "CPI Pescara",
+  "provincia": "Pescara",
+  "indirizzo": "Piazza Garibaldi, 11 - Pescara",
+  "telefono": "085 795 0999",
+  "email": "cpi.pescara@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Montesilvano Pescara Spoltore"
+ },
+ {
+  "nome": "CPI Penne",
+  "provincia": "Pescara",
+  "indirizzo": "Piazza Luca da Penne",
+  "telefono": "085 7993734",
+  "email": "cpi.penne@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Brittoli Cappelle sul Tavo Carpineto della Nora Catignano Città Sant'Angelo Civitaquana Civitella Casanova Collecorvino Elice Farindola Loreto Aprutino Montebello di Bertona Moscufo Nocciano Penne Picciano Vicoli Villa Celiera"
+ },
+ {
+  "nome": "CPI Scafa",
+  "provincia": "Pescara",
+  "indirizzo": "Via Castellari, 21",
+  "telefono": "085 7966196",
+  "email": "cpi.scafa@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Abbateggio Alanno Bolognano Bussi sul Tirino Caramanico Terme Castiglione a Casauria Cepagatti Corvara Cugnoli Lettomanoppello Manoppello Pescosansonesco Pianella Pietranico Popoli Roccamorice Rosciano Salle San Valentino in Abruzzo Citeriore Sant’Eufemia a Maiella Scafa Serramonacesca Tocco da Casauria Torre de’ Passeri Turrivalignani"
+ },
+ {
+  "nome": "CPI Teramo",
+  "provincia": "Teramo",
+  "indirizzo": "Via C. SCARSELLI  n.4 - 64100 Teramo (TE)",
+  "telefono": "0861 1725115",
+  "email": "cpi.teramo@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Basciano Campli Canzano Castel Castagna Castelli Colledara Cortino Crognaleto Fano Adriano Isola del Gran Sasso d'Italia Montorio al Vomano Penna Sant'Andrea Pietracamela Rocca Santa Maria Teramo Torricella Sicura Tossicia Valle Castellana"
+ },
+ {
+  "nome": "CPI Giulianova",
+  "provincia": "Teramo",
+  "indirizzo": "Piazza Gen. Carlo Alberto Dalla Chiesa",
+  "telefono": "085 7953068",
+  "email": "cpi.giulianova@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Alba Adriatica Bellante Giulianova Mosciano Sant’Angelo Tortoreto"
+ },
+ {
+  "nome": "CPI Nereto",
+  "provincia": "Teramo",
+  "indirizzo": "Via Marco Iachini n. 1",
+  "telefono": "0861 1725078",
+  "email": "cpi.nereto@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Ancarano Civitella del Tronto Colonnella Controguerra Corropoli Martinsicuro Nereto Sant’Egidio alla Vibrata Sant’Omero Torano Nuovo"
+ },
+ {
+  "nome": "CPI Roseto degli Abruzzi",
+  "provincia": "Teramo",
+  "indirizzo": "Via Nazionale N. 514 - 64026 Roseto degli Abruzzi",
+  "telefono": "085 7950452",
+  "email": "cpi.roseto@regione.abruzzo.it",
+  "sedi": null,
+  "competenza": "Arsita Atri Bisenti Castellalto Castiglione Messer Raimondo Castilenti Cellino Attanasio Cermignano Montefino Morro D'Oro Notaresco Pineto Roseto degli Abruzzi Silvi"
+ }
+]
